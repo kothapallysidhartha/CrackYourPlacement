@@ -4,6 +4,7 @@
 # Array
 |  |
 | ------- |
+| [0485-max-consecutive-ones](https://github.com/kothapallysidhartha/LeetCode2/tree/master/0485-max-consecutive-ones) |
 | [1635-number-of-good-pairs](https://github.com/kothapallysidhartha/LeetCode2/tree/master/1635-number-of-good-pairs) |
 | [1839-decode-xored-array](https://github.com/kothapallysidhartha/LeetCode2/tree/master/1839-decode-xored-array) |
 # Hash Table

@@ -17,6 +17,7 @@
 # Math
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/kothapallysidhartha/LeetCode2/tree/master/0043-multiply-strings) |
 | [1635-number-of-good-pairs](https://github.com/kothapallysidhartha/LeetCode2/tree/master/1635-number-of-good-pairs) |
 # Counting
 |  |
@@ -25,6 +26,7 @@
 # String
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/kothapallysidhartha/LeetCode2/tree/master/0043-multiply-strings) |
 | [0409-longest-palindrome](https://github.com/kothapallysidhartha/LeetCode2/tree/master/0409-longest-palindrome) |
 # Greedy
 |  |
@@ -42,3 +44,7 @@
 |  |
 | ------- |
 | [1217-relative-sort-array](https://github.com/kothapallysidhartha/LeetCode2/tree/master/1217-relative-sort-array) |
+# Simulation
+|  |
+| ------- |
+| [0043-multiply-strings](https://github.com/kothapallysidhartha/LeetCode2/tree/master/0043-multiply-strings) |

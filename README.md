@@ -4,6 +4,7 @@
 # Array
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/kothapallysidhartha/LeetCode2/tree/master/0075-sort-colors) |
 | [0485-max-consecutive-ones](https://github.com/kothapallysidhartha/LeetCode2/tree/master/0485-max-consecutive-ones) |
 | [1217-relative-sort-array](https://github.com/kothapallysidhartha/LeetCode2/tree/master/1217-relative-sort-array) |
 | [1635-number-of-good-pairs](https://github.com/kothapallysidhartha/LeetCode2/tree/master/1635-number-of-good-pairs) |
@@ -39,6 +40,7 @@
 # Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/kothapallysidhartha/LeetCode2/tree/master/0075-sort-colors) |
 | [1217-relative-sort-array](https://github.com/kothapallysidhartha/LeetCode2/tree/master/1217-relative-sort-array) |
 # Counting Sort
 |  |
@@ -48,3 +50,7 @@
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/kothapallysidhartha/LeetCode2/tree/master/0043-multiply-strings) |
+# Two Pointers
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/kothapallysidhartha/LeetCode2/tree/master/0075-sort-colors) |

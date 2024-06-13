@@ -4,6 +4,7 @@
 # Array
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/kothapallysidhartha/LeetCode2/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0075-sort-colors](https://github.com/kothapallysidhartha/LeetCode2/tree/master/0075-sort-colors) |
 | [0485-max-consecutive-ones](https://github.com/kothapallysidhartha/LeetCode2/tree/master/0485-max-consecutive-ones) |
 | [0605-can-place-flowers](https://github.com/kothapallysidhartha/LeetCode2/tree/master/0605-can-place-flowers) |
@@ -56,3 +57,7 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/kothapallysidhartha/LeetCode2/tree/master/0075-sort-colors) |
+# Binary Search
+|  |
+| ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/kothapallysidhartha/LeetCode2/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |

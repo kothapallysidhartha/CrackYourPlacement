@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/kothapallysidhartha/LeetCode2/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0049-group-anagrams](https://github.com/kothapallysidhartha/LeetCode2/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/kothapallysidhartha/LeetCode2/tree/master/0075-sort-colors) |
 | [0485-max-consecutive-ones](https://github.com/kothapallysidhartha/LeetCode2/tree/master/0485-max-consecutive-ones) |
 | [0605-can-place-flowers](https://github.com/kothapallysidhartha/LeetCode2/tree/master/0605-can-place-flowers) |
@@ -14,6 +15,7 @@
 # Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/kothapallysidhartha/LeetCode2/tree/master/0049-group-anagrams) |
 | [0409-longest-palindrome](https://github.com/kothapallysidhartha/LeetCode2/tree/master/0409-longest-palindrome) |
 | [1217-relative-sort-array](https://github.com/kothapallysidhartha/LeetCode2/tree/master/1217-relative-sort-array) |
 | [1635-number-of-good-pairs](https://github.com/kothapallysidhartha/LeetCode2/tree/master/1635-number-of-good-pairs) |
@@ -30,6 +32,7 @@
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/kothapallysidhartha/LeetCode2/tree/master/0043-multiply-strings) |
+| [0049-group-anagrams](https://github.com/kothapallysidhartha/LeetCode2/tree/master/0049-group-anagrams) |
 | [0409-longest-palindrome](https://github.com/kothapallysidhartha/LeetCode2/tree/master/0409-longest-palindrome) |
 # Greedy
 |  |
@@ -43,6 +46,7 @@
 # Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/kothapallysidhartha/LeetCode2/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/kothapallysidhartha/LeetCode2/tree/master/0075-sort-colors) |
 | [1217-relative-sort-array](https://github.com/kothapallysidhartha/LeetCode2/tree/master/1217-relative-sort-array) |
 # Counting Sort

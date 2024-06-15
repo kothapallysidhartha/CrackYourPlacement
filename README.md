@@ -15,6 +15,7 @@
 | [1635-number-of-good-pairs](https://github.com/kothapallysidhartha/LeetCode2/tree/master/1635-number-of-good-pairs) |
 | [1839-decode-xored-array](https://github.com/kothapallysidhartha/LeetCode2/tree/master/1839-decode-xored-array) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/kothapallysidhartha/LeetCode2/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+| [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/kothapallysidhartha/LeetCode2/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 # Hash Table
 |  |
 | ------- |
@@ -39,6 +40,7 @@
 | [0049-group-anagrams](https://github.com/kothapallysidhartha/LeetCode2/tree/master/0049-group-anagrams) |
 | [0409-longest-palindrome](https://github.com/kothapallysidhartha/LeetCode2/tree/master/0409-longest-palindrome) |
 | [0837-most-common-word](https://github.com/kothapallysidhartha/LeetCode2/tree/master/0837-most-common-word) |
+| [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/kothapallysidhartha/LeetCode2/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3379-score-of-a-string](https://github.com/kothapallysidhartha/LeetCode2/tree/master/3379-score-of-a-string) |
 # Greedy
 |  |

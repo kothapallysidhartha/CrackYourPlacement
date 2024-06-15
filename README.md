@@ -39,6 +39,7 @@
 | [0049-group-anagrams](https://github.com/kothapallysidhartha/LeetCode2/tree/master/0049-group-anagrams) |
 | [0409-longest-palindrome](https://github.com/kothapallysidhartha/LeetCode2/tree/master/0409-longest-palindrome) |
 | [0837-most-common-word](https://github.com/kothapallysidhartha/LeetCode2/tree/master/0837-most-common-word) |
+| [3379-score-of-a-string](https://github.com/kothapallysidhartha/LeetCode2/tree/master/3379-score-of-a-string) |
 # Greedy
 |  |
 | ------- |

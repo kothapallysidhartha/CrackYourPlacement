@@ -20,6 +20,7 @@
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/kothapallysidhartha/LeetCode2/tree/master/0049-group-anagrams) |
+| [0290-word-pattern](https://github.com/kothapallysidhartha/LeetCode2/tree/master/0290-word-pattern) |
 | [0409-longest-palindrome](https://github.com/kothapallysidhartha/LeetCode2/tree/master/0409-longest-palindrome) |
 | [0837-most-common-word](https://github.com/kothapallysidhartha/LeetCode2/tree/master/0837-most-common-word) |
 | [1217-relative-sort-array](https://github.com/kothapallysidhartha/LeetCode2/tree/master/1217-relative-sort-array) |
@@ -38,6 +39,7 @@
 | ------- |
 | [0043-multiply-strings](https://github.com/kothapallysidhartha/LeetCode2/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/kothapallysidhartha/LeetCode2/tree/master/0049-group-anagrams) |
+| [0290-word-pattern](https://github.com/kothapallysidhartha/LeetCode2/tree/master/0290-word-pattern) |
 | [0409-longest-palindrome](https://github.com/kothapallysidhartha/LeetCode2/tree/master/0409-longest-palindrome) |
 | [0837-most-common-word](https://github.com/kothapallysidhartha/LeetCode2/tree/master/0837-most-common-word) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/kothapallysidhartha/LeetCode2/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |

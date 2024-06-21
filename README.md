@@ -39,6 +39,7 @@
 | ------- |
 | [0043-multiply-strings](https://github.com/kothapallysidhartha/LeetCode2/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/kothapallysidhartha/LeetCode2/tree/master/0049-group-anagrams) |
+| [0125-valid-palindrome](https://github.com/kothapallysidhartha/LeetCode2/tree/master/0125-valid-palindrome) |
 | [0290-word-pattern](https://github.com/kothapallysidhartha/LeetCode2/tree/master/0290-word-pattern) |
 | [0409-longest-palindrome](https://github.com/kothapallysidhartha/LeetCode2/tree/master/0409-longest-palindrome) |
 | [0837-most-common-word](https://github.com/kothapallysidhartha/LeetCode2/tree/master/0837-most-common-word) |
@@ -77,6 +78,7 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/kothapallysidhartha/LeetCode2/tree/master/0075-sort-colors) |
+| [0125-valid-palindrome](https://github.com/kothapallysidhartha/LeetCode2/tree/master/0125-valid-palindrome) |
 # Binary Search
 |  |
 | ------- |

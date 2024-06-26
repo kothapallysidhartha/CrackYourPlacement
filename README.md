@@ -92,6 +92,7 @@
 # Linked List
 |  |
 | ------- |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/kothapallysidhartha/LeetCode2/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/kothapallysidhartha/LeetCode2/tree/master/0206-reverse-linked-list) |
 # Recursion

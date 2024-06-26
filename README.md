@@ -46,6 +46,7 @@
 | [0409-longest-palindrome](https://github.com/kothapallysidhartha/LeetCode2/tree/master/0409-longest-palindrome) |
 | [0451-sort-characters-by-frequency](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/0451-sort-characters-by-frequency) |
 | [0837-most-common-word](https://github.com/kothapallysidhartha/LeetCode2/tree/master/0837-most-common-word) |
+| [2128-reverse-prefix-of-word](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/2128-reverse-prefix-of-word) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/kothapallysidhartha/LeetCode2/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3379-score-of-a-string](https://github.com/kothapallysidhartha/LeetCode2/tree/master/3379-score-of-a-string) |
 # Greedy
@@ -85,6 +86,7 @@
 | [0075-sort-colors](https://github.com/kothapallysidhartha/LeetCode2/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/kothapallysidhartha/LeetCode2/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/kothapallysidhartha/LeetCode2/tree/master/0141-linked-list-cycle) |
+| [2128-reverse-prefix-of-word](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/2128-reverse-prefix-of-word) |
 # Binary Search
 |  |
 | ------- |

@@ -7,6 +7,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/kothapallysidhartha/LeetCode2/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0049-group-anagrams](https://github.com/kothapallysidhartha/LeetCode2/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/kothapallysidhartha/LeetCode2/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/0088-merge-sorted-array) |
 | [0485-max-consecutive-ones](https://github.com/kothapallysidhartha/LeetCode2/tree/master/0485-max-consecutive-ones) |
 | [0605-can-place-flowers](https://github.com/kothapallysidhartha/LeetCode2/tree/master/0605-can-place-flowers) |
 | [0837-most-common-word](https://github.com/kothapallysidhartha/LeetCode2/tree/master/0837-most-common-word) |
@@ -65,6 +66,7 @@
 | ------- |
 | [0049-group-anagrams](https://github.com/kothapallysidhartha/LeetCode2/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/kothapallysidhartha/LeetCode2/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/0088-merge-sorted-array) |
 | [0451-sort-characters-by-frequency](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/0451-sort-characters-by-frequency) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/kothapallysidhartha/LeetCode2/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1217-relative-sort-array](https://github.com/kothapallysidhartha/LeetCode2/tree/master/1217-relative-sort-array) |
@@ -84,6 +86,7 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/kothapallysidhartha/LeetCode2/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/kothapallysidhartha/LeetCode2/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/kothapallysidhartha/LeetCode2/tree/master/0141-linked-list-cycle) |
 | [2128-reverse-prefix-of-word](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/2128-reverse-prefix-of-word) |

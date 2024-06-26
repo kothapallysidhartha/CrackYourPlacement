@@ -15,6 +15,6 @@ class Solution(object):
             max_key = max(d, key=d.get)
             max_value = d[max_key]
             s=s+(max_key)*max_value
-            d[max_key]=-1
+            del d[max_key]
         return s
         

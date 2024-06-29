@@ -124,6 +124,7 @@
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/0283-move-zeroes) |
 | [1019-squares-of-a-sorted-array](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/1019-squares-of-a-sorted-array) |
 | [1603-running-sum-of-1d-array](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/1603-running-sum-of-1d-array) |
@@ -144,6 +145,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -152,9 +154,22 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/0268-missing-number) |
 | [1019-squares-of-a-sorted-array](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/1019-squares-of-a-sorted-array) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/0169-majority-element) |
+## Math
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/0268-missing-number) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/0268-missing-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->

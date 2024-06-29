@@ -117,3 +117,14 @@
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/0451-sort-characters-by-frequency) |
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/0121-best-time-to-buy-and-sell-stock) |
+<!---LeetCode Topics End-->

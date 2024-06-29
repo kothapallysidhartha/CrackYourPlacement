@@ -123,8 +123,13 @@
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0283-move-zeroes](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/0283-move-zeroes) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Two Pointers
+|  |
+| ------- |
+| [0283-move-zeroes](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->

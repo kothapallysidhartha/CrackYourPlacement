@@ -11,7 +11,7 @@ class Solution(object):
                 p.append(i)
             else:
                 n.append(i)
-        
+        nums=[]
         result = []
         for i in range(len(p)):
             result.append(p[i])

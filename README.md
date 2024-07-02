@@ -130,6 +130,7 @@
 | [0268-missing-number](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/0283-move-zeroes) |
 | [1019-squares-of-a-sorted-array](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/1019-squares-of-a-sorted-array) |
+| [1293-three-consecutive-odds](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/1293-three-consecutive-odds) |
 | [1603-running-sum-of-1d-array](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/1603-running-sum-of-1d-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Dynamic Programming

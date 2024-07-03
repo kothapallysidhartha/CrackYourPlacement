@@ -6,14 +6,11 @@ class Solution(object):
         :rtype: bool
         """
         asteroids.sort()
-        c=0
-        for i in asteroids:
-            if i<=mass:
-                mass+=i
-                c+=1
-        if c==len(asteroids):
-            return True
-        else:
-            return False
+        for asteroid in asteroids:
+            if mass < asteroid:
+                return False
+            mass += asteroid
+
+        return True
 
         

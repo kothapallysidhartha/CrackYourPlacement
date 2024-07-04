@@ -10,7 +10,6 @@ class Solution(object):
                 d[i]=1
             else:
                 d[i]+=1
-        
         for key,value in d.items():
             while value >=3:
                 nums.remove(key)

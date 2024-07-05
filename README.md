@@ -123,6 +123,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/0004-median-of-two-sorted-arrays) |
 | [0027-remove-element](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -166,6 +167,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/0004-median-of-two-sorted-arrays) |
 | [0169-majority-element](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/0169-majority-element) |
 ## Sorting
 |  |
@@ -188,6 +190,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/0004-median-of-two-sorted-arrays) |
 | [0268-missing-number](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Bit Manipulation

@@ -188,6 +188,7 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/0268-missing-number) |
+| [2645-pass-the-pillow](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/2645-pass-the-pillow) |
 ## Binary Search
 |  |
 | ------- |
@@ -204,6 +205,7 @@
 | ------- |
 | [2271-rearrange-array-elements-by-sign](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/2299-merge-nodes-in-between-zeros) |
+| [2645-pass-the-pillow](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/2645-pass-the-pillow) |
 ## Greedy
 |  |
 | ------- |

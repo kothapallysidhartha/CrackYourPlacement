@@ -4,8 +4,8 @@ class Solution(object):
         :type nums: List[int]
         :rtype: int
         """
-        nums.sort()
-        n=len(nums)
-        for i in range(n+1):
-            if i not in nums:
-                return i
+        n= sum(nums)
+        t= (len(nums) *(len(nums)+1))//2
+        return t-n
+        
+            

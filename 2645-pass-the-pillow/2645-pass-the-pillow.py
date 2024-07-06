@@ -5,17 +5,7 @@ class Solution(object):
         :type time: int
         :rtype: int
         """
-        t=1
-        m=0
-        while time:
-            if t!=n and m!=n:
-                t+=1
-            elif t==1:
-                m=0
-                t+=1
-            else:
-                m=n
-                t-=1
-            time-=1
-        return t
+        s = time // (n - 1)
+        return (time % (n - 1) + 1) if s % 2 == 0 else (n - time % (n - 1))
+            
         

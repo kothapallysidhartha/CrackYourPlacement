@@ -212,4 +212,12 @@
 |  |
 | ------- |
 | [2299-merge-nodes-in-between-zeros](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/2299-merge-nodes-in-between-zeros) |
+## String
+|  |
+| ------- |
+| [1078-remove-outermost-parentheses](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/1078-remove-outermost-parentheses) |
+## Stack
+|  |
+| ------- |
+| [1078-remove-outermost-parentheses](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/1078-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->

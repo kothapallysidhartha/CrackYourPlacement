@@ -229,4 +229,8 @@
 |  |
 | ------- |
 | [1078-remove-outermost-parentheses](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/1078-remove-outermost-parentheses) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->

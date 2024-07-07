@@ -11,5 +11,4 @@ class Solution(object):
             rBottles = numBottles % numExchange
             totalBottles += newBottles
             numBottles = newBottles + rBottles
-
         return totalBottles

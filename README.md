@@ -132,6 +132,7 @@
 | [0169-majority-element](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1019-squares-of-a-sorted-array](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/1019-squares-of-a-sorted-array) |
 | [1293-three-consecutive-odds](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/1293-three-consecutive-odds) |
@@ -151,6 +152,7 @@
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1019-squares-of-a-sorted-array](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/1019-squares-of-a-sorted-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -165,6 +167,7 @@
 | [0013-roman-to-integer](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Divide and Conquer
 |  |
@@ -177,6 +180,7 @@
 | [0075-sort-colors](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1019-squares-of-a-sorted-array](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/1019-squares-of-a-sorted-array) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
@@ -197,6 +201,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/0004-median-of-two-sorted-arrays) |
 | [0268-missing-number](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Bit Manipulation
 |  |

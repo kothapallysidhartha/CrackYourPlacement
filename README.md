@@ -141,6 +141,7 @@
 | [1720-crawler-log-folder](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/1720-crawler-log-folder) |
 | [2245-destroying-asteroids](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/2245-destroying-asteroids) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/2271-rearrange-array-elements-by-sign) |
+| [3193-maximum-strong-pair-xor-i](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/3193-maximum-strong-pair-xor-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -170,6 +171,7 @@
 | [0268-missing-number](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/0350-intersection-of-two-arrays-ii) |
+| [3193-maximum-strong-pair-xor-i](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/3193-maximum-strong-pair-xor-i) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -209,6 +211,7 @@
 | ------- |
 | [0136-single-number](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/0268-missing-number) |
+| [3193-maximum-strong-pair-xor-i](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/3193-maximum-strong-pair-xor-i) |
 ## Simulation
 |  |
 | ------- |
@@ -242,4 +245,12 @@
 | ------- |
 | [0175-combine-two-tables](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/0175-combine-two-tables) |
 | [0181-employees-earning-more-than-their-managers](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/0181-employees-earning-more-than-their-managers) |
+## Trie
+|  |
+| ------- |
+| [3193-maximum-strong-pair-xor-i](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/3193-maximum-strong-pair-xor-i) |
+## Sliding Window
+|  |
+| ------- |
+| [3193-maximum-strong-pair-xor-i](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/3193-maximum-strong-pair-xor-i) |
 <!---LeetCode Topics End-->

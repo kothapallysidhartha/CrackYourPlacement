@@ -125,6 +125,7 @@
 | [0001-two-sum](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/0004-median-of-two-sorted-arrays) |
 | [0027-remove-element](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/0027-remove-element) |
+| [0049-group-anagrams](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -168,6 +169,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/0013-roman-to-integer) |
+| [0049-group-anagrams](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/0349-intersection-of-two-arrays) |
@@ -182,6 +184,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/0268-missing-number) |
@@ -235,6 +238,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/0013-roman-to-integer) |
+| [0049-group-anagrams](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/0049-group-anagrams) |
 | [0151-reverse-words-in-a-string](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/0151-reverse-words-in-a-string) |
 | [1078-remove-outermost-parentheses](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/1078-remove-outermost-parentheses) |
 | [1720-crawler-log-folder](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/1720-crawler-log-folder) |

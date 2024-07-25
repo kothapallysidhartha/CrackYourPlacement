@@ -208,6 +208,7 @@
 | ------- |
 | [0013-roman-to-integer](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/0013-roman-to-integer) |
 | [0268-missing-number](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/0268-missing-number) |
+| [1501-circle-and-rectangle-overlapping](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/1501-circle-and-rectangle-overlapping) |
 | [1642-water-bottles](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/1642-water-bottles) |
 | [2645-pass-the-pillow](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/2645-pass-the-pillow) |
 ## Binary Search
@@ -272,4 +273,8 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Geometry
+|  |
+| ------- |
+| [1501-circle-and-rectangle-overlapping](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/1501-circle-and-rectangle-overlapping) |
 <!---LeetCode Topics End-->

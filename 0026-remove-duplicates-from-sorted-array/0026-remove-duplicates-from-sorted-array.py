@@ -4,8 +4,8 @@ class Solution(object):
         :type nums: List[int]
         :rtype: int
         """
-        if not nums:
-            return(0)
+        """if not nums:
+            return 0
         j = 1 
         for i in range(1, len(nums)):
             if nums[i] != nums[i - 1]:
@@ -13,7 +13,18 @@ class Solution(object):
                 j += 1
         nums = nums[:j]
     
-        return (len(nums))
+        return (len(nums))"""
+
+        neww=[]
+        for i in nums:
+            if i not in neww:
+                neww.append(i)
+        for i in range(len(neww)):
+            nums[i]=neww[i]  
+        
+        #print(nums)
+        #neww=len(nums)
+        return len(neww)
         
 
 

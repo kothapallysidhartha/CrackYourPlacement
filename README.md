@@ -216,6 +216,7 @@
 | [1501-circle-and-rectangle-overlapping](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/1501-circle-and-rectangle-overlapping) |
 | [1642-water-bottles](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/1642-water-bottles) |
 | [2645-pass-the-pillow](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/2645-pass-the-pillow) |
+| [2752-sum-multiples](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/2752-sum-multiples) |
 ## Binary Search
 |  |
 | ------- |

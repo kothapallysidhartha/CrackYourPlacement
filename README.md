@@ -139,6 +139,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/0455-assign-cookies) |
+| [0890-lemonade-change](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/0890-lemonade-change) |
 | [1019-squares-of-a-sorted-array](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/1019-squares-of-a-sorted-array) |
 | [1293-three-consecutive-odds](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/1293-three-consecutive-odds) |
 | [1603-running-sum-of-1d-array](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/1603-running-sum-of-1d-array) |
@@ -247,6 +248,7 @@
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/0455-assign-cookies) |
+| [0890-lemonade-change](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/0890-lemonade-change) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [2245-destroying-asteroids](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/2245-destroying-asteroids) |
 ## Linked List

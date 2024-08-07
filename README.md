@@ -127,6 +127,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/0027-remove-element) |
 | [0049-group-anagrams](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/0049-group-anagrams) |
+| [0055-jump-game](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/0055-jump-game) |
 | [0075-sort-colors](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -153,6 +154,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Two Pointers
 |  |
@@ -247,6 +249,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/0455-assign-cookies) |
 | [0890-lemonade-change](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/0890-lemonade-change) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |

@@ -150,6 +150,7 @@
 | [2271-rearrange-array-elements-by-sign](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2486-most-frequent-even-element](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/2486-most-frequent-even-element) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [2727-number-of-senior-citizens](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/2727-number-of-senior-citizens) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/3193-maximum-strong-pair-xor-i) |
 ## Dynamic Programming
 |  |
@@ -267,6 +268,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/0151-reverse-words-in-a-string) |
 | [1078-remove-outermost-parentheses](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/1078-remove-outermost-parentheses) |
 | [1720-crawler-log-folder](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/1720-crawler-log-folder) |
+| [2727-number-of-senior-citizens](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/2727-number-of-senior-citizens) |
 ## Stack
 |  |
 | ------- |

@@ -140,6 +140,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/0455-assign-cookies) |
+| [0870-magic-squares-in-grid](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/0870-magic-squares-in-grid) |
 | [0890-lemonade-change](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/0890-lemonade-change) |
 | [0921-spiral-matrix-iii](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/0921-spiral-matrix-iii) |
 | [1019-squares-of-a-sorted-array](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/1019-squares-of-a-sorted-array) |
@@ -194,6 +195,7 @@
 | [0268-missing-number](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0870-magic-squares-in-grid](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/0870-magic-squares-in-grid) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2486-most-frequent-even-element](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/2486-most-frequent-even-element) |
@@ -234,6 +236,7 @@
 | [0013-roman-to-integer](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/0268-missing-number) |
+| [0870-magic-squares-in-grid](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/0870-magic-squares-in-grid) |
 | [1501-circle-and-rectangle-overlapping](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/1501-circle-and-rectangle-overlapping) |
 | [1642-water-bottles](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/1642-water-bottles) |
 | [2645-pass-the-pillow](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/2645-pass-the-pillow) |
@@ -318,5 +321,6 @@
 ## Matrix
 |  |
 | ------- |
+| [0870-magic-squares-in-grid](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/0921-spiral-matrix-iii) |
 <!---LeetCode Topics End-->

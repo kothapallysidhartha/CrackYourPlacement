@@ -141,6 +141,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/0455-assign-cookies) |
 | [0890-lemonade-change](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/0890-lemonade-change) |
+| [0921-spiral-matrix-iii](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/0921-spiral-matrix-iii) |
 | [1019-squares-of-a-sorted-array](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/1019-squares-of-a-sorted-array) |
 | [1293-three-consecutive-odds](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/1293-three-consecutive-odds) |
 | [1603-running-sum-of-1d-array](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/1603-running-sum-of-1d-array) |
@@ -243,6 +244,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0921-spiral-matrix-iii](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/0921-spiral-matrix-iii) |
 | [1642-water-bottles](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/1642-water-bottles) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/2299-merge-nodes-in-between-zeros) |
@@ -295,4 +297,8 @@
 |  |
 | ------- |
 | [1501-circle-and-rectangle-overlapping](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/1501-circle-and-rectangle-overlapping) |
+## Matrix
+|  |
+| ------- |
+| [0921-spiral-matrix-iii](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/0921-spiral-matrix-iii) |
 <!---LeetCode Topics End-->

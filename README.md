@@ -143,6 +143,7 @@
 | [0870-magic-squares-in-grid](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/0870-magic-squares-in-grid) |
 | [0890-lemonade-change](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/0890-lemonade-change) |
 | [0921-spiral-matrix-iii](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/0921-spiral-matrix-iii) |
+| [0999-regions-cut-by-slashes](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/0999-regions-cut-by-slashes) |
 | [1019-squares-of-a-sorted-array](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/1019-squares-of-a-sorted-array) |
 | [1293-three-consecutive-odds](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/1293-three-consecutive-odds) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -196,6 +197,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0870-magic-squares-in-grid](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/0870-magic-squares-in-grid) |
+| [0999-regions-cut-by-slashes](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/0999-regions-cut-by-slashes) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2486-most-frequent-even-element](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/2486-most-frequent-even-element) |
@@ -323,4 +325,17 @@
 | ------- |
 | [0870-magic-squares-in-grid](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/0921-spiral-matrix-iii) |
+| [0999-regions-cut-by-slashes](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/0999-regions-cut-by-slashes) |
+## Depth-First Search
+|  |
+| ------- |
+| [0999-regions-cut-by-slashes](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/0999-regions-cut-by-slashes) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0999-regions-cut-by-slashes](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/0999-regions-cut-by-slashes) |
+## Union Find
+|  |
+| ------- |
+| [0999-regions-cut-by-slashes](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/0999-regions-cut-by-slashes) |
 <!---LeetCode Topics End-->

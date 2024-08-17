@@ -141,6 +141,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/0455-assign-cookies) |
+| [0624-maximum-distance-in-arrays](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/0624-maximum-distance-in-arrays) |
 | [0870-magic-squares-in-grid](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/0870-magic-squares-in-grid) |
 | [0890-lemonade-change](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/0890-lemonade-change) |
 | [0921-spiral-matrix-iii](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/0921-spiral-matrix-iii) |
@@ -278,6 +279,7 @@
 | [0011-container-with-most-water](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/0455-assign-cookies) |
+| [0624-maximum-distance-in-arrays](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/0624-maximum-distance-in-arrays) |
 | [0890-lemonade-change](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/0890-lemonade-change) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [2245-destroying-asteroids](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/2245-destroying-asteroids) |

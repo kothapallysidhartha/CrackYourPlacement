@@ -158,6 +158,7 @@
 | [2245-destroying-asteroids](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/2245-destroying-asteroids) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2350-find-closest-number-to-zero](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/2350-find-closest-number-to-zero) |
 | [2486-most-frequent-even-element](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/2486-most-frequent-even-element) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2727-number-of-senior-citizens](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/2727-number-of-senior-citizens) |

@@ -186,6 +186,7 @@
 | [0455-assign-cookies](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/0455-assign-cookies) |
 | [1019-squares-of-a-sorted-array](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/1019-squares-of-a-sorted-array) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [1894-merge-strings-alternately](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/1894-merge-strings-alternately) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Prefix Sum
 |  |
@@ -298,6 +299,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/0151-reverse-words-in-a-string) |
 | [1078-remove-outermost-parentheses](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/1078-remove-outermost-parentheses) |
 | [1720-crawler-log-folder](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/1720-crawler-log-folder) |
+| [1894-merge-strings-alternately](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/1894-merge-strings-alternately) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2727-number-of-senior-citizens](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/2727-number-of-senior-citizens) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |

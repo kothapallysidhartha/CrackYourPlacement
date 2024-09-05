@@ -203,6 +203,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0870-magic-squares-in-grid](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/0870-magic-squares-in-grid) |
+| [0931-maximum-frequency-stack](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/0931-maximum-frequency-stack) |
 | [0999-regions-cut-by-slashes](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/0999-regions-cut-by-slashes) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -306,6 +307,7 @@
 ## Stack
 |  |
 | ------- |
+| [0931-maximum-frequency-stack](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/0931-maximum-frequency-stack) |
 | [1078-remove-outermost-parentheses](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/1078-remove-outermost-parentheses) |
 | [1720-crawler-log-folder](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/1720-crawler-log-folder) |
 ## Database
@@ -355,4 +357,12 @@
 |  |
 | ------- |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
+## Design
+|  |
+| ------- |
+| [0931-maximum-frequency-stack](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/0931-maximum-frequency-stack) |
+## Ordered Set
+|  |
+| ------- |
+| [0931-maximum-frequency-stack](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/0931-maximum-frequency-stack) |
 <!---LeetCode Topics End-->

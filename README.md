@@ -129,6 +129,7 @@
 | [0027-remove-element](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/0027-remove-element) |
 | [0049-group-anagrams](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/0055-jump-game) |
+| [0073-set-matrix-zeroes](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -199,6 +200,7 @@
 | [0001-two-sum](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/0349-intersection-of-two-arrays) |
@@ -339,6 +341,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/0073-set-matrix-zeroes) |
 | [0870-magic-squares-in-grid](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/0921-spiral-matrix-iii) |
 | [0999-regions-cut-by-slashes](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/0999-regions-cut-by-slashes) |

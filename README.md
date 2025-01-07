@@ -169,6 +169,7 @@
 | ------- |
 | [0055-jump-game](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [1013-fibonacci-number](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/1013-fibonacci-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -251,6 +252,7 @@
 | [0189-rotate-array](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/0268-missing-number) |
 | [0870-magic-squares-in-grid](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/0870-magic-squares-in-grid) |
+| [1013-fibonacci-number](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/1013-fibonacci-number) |
 | [1501-circle-and-rectangle-overlapping](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/1501-circle-and-rectangle-overlapping) |
 | [1642-water-bottles](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/1642-water-bottles) |
 | [2645-pass-the-pillow](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/2645-pass-the-pillow) |
@@ -373,4 +375,12 @@
 |  |
 | ------- |
 | [0931-maximum-frequency-stack](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/0931-maximum-frequency-stack) |
+## Recursion
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/1013-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->

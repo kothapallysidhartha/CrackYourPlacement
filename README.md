@@ -179,6 +179,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0125-valid-palindrome](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/0283-move-zeroes) |
@@ -304,6 +305,7 @@
 | [0020-valid-parentheses](https://github.com/kothapallysidhartha/CrackYourPlacement/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/0049-group-anagrams) |
+| [0125-valid-palindrome](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/kothapallysidhartha/CrackYourPlacement/tree/master/0344-reverse-string) |
 | [1078-remove-outermost-parentheses](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/1078-remove-outermost-parentheses) |

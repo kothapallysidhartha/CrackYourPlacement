@@ -155,6 +155,7 @@
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1720-crawler-log-folder](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/1720-crawler-log-folder) |
+| [1878-check-if-array-is-sorted-and-rotated](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2245-destroying-asteroids](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/2245-destroying-asteroids) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |

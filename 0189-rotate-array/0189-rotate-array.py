@@ -5,6 +5,9 @@ class Solution(object):
         :type k: int
         :rtype: None Do not return anything, modify nums in-place instead.
         """
-        k = k % len(nums)  
-        if k:
-            nums[:] = nums[-k:] + nums[:len(nums)-k]  
+        k=k%len(nums)
+        '''t=nums[:k]
+        nums=nums[k:]
+        #nums.append(t)'''
+        nums[:]=nums[-k:]+nums[:-k]
+        

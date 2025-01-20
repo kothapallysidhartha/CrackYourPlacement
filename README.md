@@ -257,6 +257,7 @@
 | [1013-fibonacci-number](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/1013-fibonacci-number) |
 | [1501-circle-and-rectangle-overlapping](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/1501-circle-and-rectangle-overlapping) |
 | [1642-water-bottles](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/1642-water-bottles) |
+| [2032-largest-odd-number-in-string](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/2032-largest-odd-number-in-string) |
 | [2645-pass-the-pillow](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/2645-pass-the-pillow) |
 | [2752-sum-multiples](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/2752-sum-multiples) |
 ## Binary Search
@@ -293,6 +294,7 @@
 | [0624-maximum-distance-in-arrays](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/0624-maximum-distance-in-arrays) |
 | [0890-lemonade-change](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/0890-lemonade-change) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [2032-largest-odd-number-in-string](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/2032-largest-odd-number-in-string) |
 | [2245-destroying-asteroids](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/2245-destroying-asteroids) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Linked List
@@ -312,6 +314,7 @@
 | [1078-remove-outermost-parentheses](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/1078-remove-outermost-parentheses) |
 | [1720-crawler-log-folder](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/1720-crawler-log-folder) |
 | [1894-merge-strings-alternately](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/1894-merge-strings-alternately) |
+| [2032-largest-odd-number-in-string](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/2032-largest-odd-number-in-string) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2727-number-of-senior-citizens](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/2727-number-of-senior-citizens) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |

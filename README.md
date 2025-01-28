@@ -330,6 +330,7 @@
 | ------- |
 | [0175-combine-two-tables](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/0175-combine-two-tables) |
 | [0181-employees-earning-more-than-their-managers](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/0181-employees-earning-more-than-their-managers) |
+| [1908-recyclable-and-low-fat-products](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/1908-recyclable-and-low-fat-products) |
 ## Trie
 |  |
 | ------- |

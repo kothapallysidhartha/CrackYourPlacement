@@ -128,6 +128,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/0027-remove-element) |
 | [0049-group-anagrams](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/0055-jump-game) |
 | [0073-set-matrix-zeroes](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/0075-sort-colors) |
@@ -168,6 +169,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1013-fibonacci-number](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/1013-fibonacci-number) |
@@ -220,6 +222,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/0169-majority-element) |
 ## Sorting
 |  |

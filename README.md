@@ -325,6 +325,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/kothapallysidhartha/CrackYourPlacement/tree/master/0020-valid-parentheses) |
+| [0094-binary-tree-inorder-traversal](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/0094-binary-tree-inorder-traversal) |
 | [0931-maximum-frequency-stack](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/0931-maximum-frequency-stack) |
 | [1078-remove-outermost-parentheses](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/1078-remove-outermost-parentheses) |
 | [1720-crawler-log-folder](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/1720-crawler-log-folder) |
@@ -367,6 +368,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/0094-binary-tree-inorder-traversal) |
 | [0999-regions-cut-by-slashes](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/0999-regions-cut-by-slashes) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 ## Breadth-First Search
@@ -398,4 +400,12 @@
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/1013-fibonacci-number) |
+## Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/0094-binary-tree-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/kothapallysidhartha/LeetCode_2/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
